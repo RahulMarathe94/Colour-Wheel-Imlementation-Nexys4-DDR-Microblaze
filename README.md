@@ -1,1 +1,1 @@
-# Colour-Wheel-Imlementation-Nexys4-DDR-Microblaze
+# Colour-Wheel-Implementation-Nexys4-DDR-Microblaze
